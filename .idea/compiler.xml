@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="propertiesUtils" />
-        <module name="resultsetUtils" />
-        <module name="statementUtils" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jdbc" target="1.5" />
       <module name="jdbc-demo" target="1.5" />
+      <module name="jdbc_demo" target="1.5" />
+      <module name="resultsetUtils" target="1.5" />
+      <module name="statementUtils" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

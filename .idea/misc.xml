@@ -10,6 +10,10 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/jdbc-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/jdbc_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/resultsetUtils/pom.xml" />
+        <option value="$PROJECT_DIR$/statementUtils/pom.xml" />
       </set>
     </option>
   </component>
